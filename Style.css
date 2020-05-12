@@ -1,6 +1,16 @@
 header{
 	text-align: left;/*выравнивание текста*/
+	line-height: 0.5;
+}
+h1{
+	font-family: 'DM Mono', monospace;
+	font-family: 'Muli', sans-serif;
+}
+h3{
+	font-family: 'DM Mono', monospace;
+	font-family: 'Muli', sans-serif;
+	font-family: 'Satisfy', cursive;
 }
 .content{
-	font-style: italic;
+	columns: 2;
 }
